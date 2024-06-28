@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<trainers>
+	<trainer>
+		<id>1</id>
+		<fullname>Bragin Sergei</fullname>
+		<tel>84004446565</tel>
+		<point>4</point>
+	</trainer>
+	<trainer>
+		<id>2</id>
+		<fullname>Airat Gaziev</fullname>
+		<tel>83221992321</tel>
+		<point>5</point>
+	</trainer>
+	<trainer>
+		<id>3</id>
+		<fullname>Wan Darkholm</fullname>
+		<tel>83003336363</tel>
+		<point>3</point>
+	</trainer>
+	<trainer>
+		<id>4</id>
+		<fullname>Bragin Sergei</fullname>
+		<tel>84004446565</tel>
+		<point>4</point>
+	</trainer>
+	<trainer>
+		<id>5</id>
+		<fullname>Airat Gaziev</fullname>
+		<tel>83221992321</tel>
+		<point>5</point>
+	</trainer>
+	<trainer>
+		<id>6</id>
+		<fullname>Wan Darkholm</fullname>
+		<tel>83003336363</tel>
+		<point>3</point>
+	</trainer>
+	<trainer>
+		<id>7</id>
+		<fullname>Bragin Sergei</fullname>
+		<tel>84004446565</tel>
+		<point>4</point>
+	</trainer>
+	<trainer>
+		<id>8</id>
+		<fullname>Airat Gaziev</fullname>
+		<tel>83221992321</tel>
+		<point>5</point>
+	</trainer>
+	<trainer>
+		<id>9</id>
+		<fullname>Wan Darkholm</fullname>
+		<tel>83003336363</tel>
+		<point>3</point>
+	</trainer>
+	<trainer>
+		<id>10</id>
+		<fullname>Bragin Sergei</fullname>
+		<tel>84004446565</tel>
+		<point>4</point>
+	</trainer>
+	<trainer>
+		<id>11</id>
+		<fullname>Airat Gaziev</fullname>
+		<tel>83221992321</tel>
+		<point>5</point>
+	</trainer>
+	<trainer>
+		<id>12</id>
+		<fullname>Wan Darkholm</fullname>
+		<tel>83003336363</tel>
+		<point>3</point>
+	</trainer>
+	<trainer>
+		<id>13</id>
+		<fullname>Bragin Sergei</fullname>
+		<tel>84004446565</tel>
+		<point>4</point>
+	</trainer>
+	<trainer>
+		<id>14</id>
+		<fullname>Airat Gaziev</fullname>
+		<tel>83221992321</tel>
+		<point>5</point>
+	</trainer>
+	<trainer>
+		<id>15</id>
+		<fullname>Wan Darkholm</fullname>
+		<tel>83003336363</tel>
+		<point>3</point>
+	</trainer>
+	<trainer>
+		<id>16</id>
+		<fullname>Bragin Sergei</fullname>
+		<tel>84004446565</tel>
+		<point>4</point>
+	</trainer>
+	<trainer>
+		<id>17</id>
+		<fullname>Airat Gaziev</fullname>
+		<tel>83221992321</tel>
+		<point>5</point>
+	</trainer>
+	<trainer>
+		<id>18</id>
+		<fullname>Wan Darkholm</fullname>
+		<tel>83003336363</tel>
+		<point>3</point>
+	</trainer>
+</trainers>
