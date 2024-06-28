@@ -1,0 +1,11 @@
+f = open("f.txt","r")
+a=[]
+for i in f.readlines():
+    i=i.replace("\n","")
+    a.append(i)
+for i in range(len(a)-1,-1,-1):
+    for j in range(0,i):
+        if(a[j+1]+a[j] > a[j]+a[j+1]):
+            a[j+1], a[j] = a[j], a[j+1]
+str_a = ''.join(a)
+print(str_a)

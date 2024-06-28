@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<fiz_lica>
+	<fiz_lico>
+		<id>1</id>
+		<fio>Makarchuk Anton Pavlovich</fio>
+		<country>Russia</country>
+		<passport>1234 423456</passport>
+	</fiz_lico>
+	<fiz_lico>
+		<id>2</id>
+		<fio>Pavlova Alla Vladimirovna</fio>
+		<country>Russian Empire</country>
+		<passport>1234 433333</passport>
+	</fiz_lico>
+	<fiz_lico>
+		<id>3</id>
+		<fio>Egorov Vadim Mihaylovich</fio>
+		<country>China</country>
+		<passport>4321 654324</passport>
+	</fiz_lico>
+	<fiz_lico>
+		<id>4</id>
+		<fio>vbnn</fio>
+		<country>gn</country>
+		<passport>vbn</passport>
+	</fiz_lico>
+	<fiz_lico>
+		<id>5</id>
+		<fio>Makarchuk Anton Pavlovich</fio>
+		<country>Russia</country>
+		<passport>1234 423456</passport>
+	</fiz_lico>
+	<fiz_lico>
+		<id>6</id>
+		<fio>Pavlova Alla Vladimirovna</fio>
+		<country>Russian Empire</country>
+		<passport>1234 433333</passport>
+	</fiz_lico>
+	<fiz_lico>
+		<id>7</id>
+		<fio>Egorov Vadim Mihaylovich</fio>
+		<country>China</country>
+		<passport>4321 654324</passport>
+	</fiz_lico>
+	<fiz_lico>
+		<id>8</id>
+		<fio>vbnn</fio>
+		<country>gn</country>
+		<passport>vbn</passport>
+	</fiz_lico>
+	<fiz_lico>
+		<id>9</id>
+		<fio>,hjkhjkhjkhjk</fio>
+		<country>gn</country>
+		<passport>vbn</passport>
+	</fiz_lico>
+</fiz_lica>
